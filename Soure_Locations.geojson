@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Soure Locations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": null, "description": "<pre>\nLAT:   19.023001 LON:  -98.622002\nReleased between  5426. and 10000.m AGL\n      <\/pre>\n      ", "extrude": 1 }, "geometry": { "type": "Point", "coordinates": [ -98.622002, 19.023001 ] } },
+{ "type": "Feature", "properties": { "Name": null, "description": "<pre>\nLAT:   19.023001 LON:  -98.622002\nReleased between  5426. and 10000.m AGL\n      <\/pre>\n      ", "extrude": 1 }, "geometry": { "type": "Point", "coordinates": [ -98.622002, 19.023001 ] } }
+]
+}
